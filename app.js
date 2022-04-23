@@ -1,5 +1,5 @@
 import { Respuesta } from'./lib/entidades/respuesta.js'
 
-let respuesta = new Respuesta()
-var arr = respuesta.leerRespuestas(3)
+var respuesta = new Respuesta()
 respuesta.mostrarRespuestas(3)
+respuesta.validarRespuesta()
