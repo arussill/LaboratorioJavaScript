@@ -1,5 +1,6 @@
-import { Respuesta } from'./lib/entidades/respuesta.js'
+import { Jugador } from './lib/entidades/jugador.js'
+import { Juego } from'./lib/entidades/juego.js'
 
-var respuesta = new Respuesta()
-respuesta.mostrarRespuestas(3)
-respuesta.validarRespuesta()
+var participante = new Jugador("Santiago Viana")
+var juego = new Juego(participante)
+juego.play();
