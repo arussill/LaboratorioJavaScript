@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "description": "Activo"
+    },
+    {
+        "id": 2,
+        "description": "Terminado"
+    },
+    {
+        "id": 3,
+        "description": "Forzado"
+    },
+    {
+        "id": 4,
+        "description": "Perdido"
+    },
+    {
+        "id": 5,
+        "description": "Ganado"
+    }
+]

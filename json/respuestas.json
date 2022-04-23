@@ -1,0 +1,1302 @@
+[
+    {
+        "id": 1,
+        "description": "Ácido desoxirribonucleico",
+        "question": {
+            "id": 1,
+            "description": "¿Qué significan las siglas ADN?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 2,
+        "description": "Ácido desoxindado",
+        "question": {
+            "id": 1,
+            "description": "¿Qué significan las siglas ADN?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 3,
+        "description": "Adrenalina",
+        "question": {
+            "id": 1,
+            "description": "¿Qué significan las siglas ADN?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 4,
+        "description": "Animales diurnos/nocturnos",
+        "question": {
+            "id": 1,
+            "description": "¿Qué significan las siglas ADN?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 5,
+        "description": "Es la conversión de materia inorgánica a materia orgánica gracias a la energía que aporta la luz del Sol",
+        "question": {
+            "id": 2,
+            "description": "¿Qué es la fotosíntesis?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 6,
+        "description": "consiste en la pérdida de agua en forma de vapor que se produce en las plantas",
+        "question": {
+            "id": 2,
+            "description": "¿Qué es la fotosíntesis?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 7,
+        "description": "Es el proceso de respiración aeróbica que tiene lugar en una planta",
+        "question": {
+            "id": 2,
+            "description": "¿Qué es la fotosíntesis?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 8,
+        "description": "son una familia de pigmentos de color verde",
+        "question": {
+            "id": 2,
+            "description": "¿Qué es la fotosíntesis?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 9,
+        "description": "En los pulmones el oxígeno inspirado pasa a la sangre",
+        "question": {
+            "id": 3,
+            "description": "¿Cómo se oxigena el cuerpo humano durante la respiración?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 10,
+        "description": "Los pulmones almacenan el oxígeno que se está inspirando",
+        "question": {
+            "id": 3,
+            "description": "¿Cómo se oxigena el cuerpo humano durante la respiración?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 11,
+        "description": "Los pulmones aumentan el oxígeno que tiene el aire inspirado",
+        "question": {
+            "id": 3,
+            "description": "¿Cómo se oxigena el cuerpo humano durante la respiración?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 12,
+        "description": "En los pulmones el dióxido de carbono inspirado se transforma en oxígeno",
+        "question": {
+            "id": 3,
+            "description": "¿Cómo se oxigena el cuerpo humano durante la respiración?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 13,
+        "description": "Branquias",
+        "question": {
+            "id": 5,
+            "description": "¿Qué utilizan los peces para respirar?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 14,
+        "description": "Hígado",
+        "question": {
+            "id": 5,
+            "description": "¿Qué utilizan los peces para respirar?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 15,
+        "description": "Pulmones",
+        "question": {
+            "id": 5,
+            "description": "¿Qué utilizan los peces para respirar?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 16,
+        "description": "Corazón",
+        "question": {
+            "id": 5,
+            "description": "¿Qué utilizan los peces para respirar?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 17,
+        "description": "Estrellas de mar",
+        "question": {
+            "id": 6,
+            "description": "¿Qué animales no necesitan aparearse para reproducirse?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 18,
+        "description": "Dragon de cómodo",
+        "question": {
+            "id": 6,
+            "description": "¿Qué animales no necesitan aparearse para reproducirse?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 19,
+        "description": "Perros",
+        "question": {
+            "id": 6,
+            "description": "¿Qué animales no necesitan aparearse para reproducirse?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 20,
+        "description": "Gallinas",
+        "question": {
+            "id": 6,
+            "description": "¿Qué animales no necesitan aparearse para reproducirse?",
+            "category": {
+                "id": 3,
+                "description": "Ciencias Naturales"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 21,
+        "description": "Chibchas y Arawak",
+        "question": {
+            "id": 7,
+            "description": "¿Cuáles de estos pueblos indígenas ocuparon el territorio colombiano en el periodo prehispánico?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 22,
+        "description": "Incas y Quechuas",
+        "question": {
+            "id": 7,
+            "description": "¿Cuáles de estos pueblos indígenas ocuparon el territorio colombiano en el periodo prehispánico?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 23,
+        "description": "Toltecas y Mayas",
+        "question": {
+            "id": 7,
+            "description": "¿Cuáles de estos pueblos indígenas ocuparon el territorio colombiano en el periodo prehispánico?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 24,
+        "description": "Mexicas y Aztecas",
+        "question": {
+            "id": 7,
+            "description": "¿Cuáles de estos pueblos indígenas ocuparon el territorio colombiano en el periodo prehispánico?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 25,
+        "description": "Masacre de las bananeras",
+        "question": {
+            "id": 8,
+            "description": "¿A qué suceso histórico hizo referencia Gabriel García Márquez en su obra cien años de soledad?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 26,
+        "description": "La violencia",
+        "question": {
+            "id": 8,
+            "description": "¿A qué suceso histórico hizo referencia Gabriel García Márquez en su obra cien años de soledad?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 27,
+        "description": "Batalla de Boyacá",
+        "question": {
+            "id": 8,
+            "description": "¿A qué suceso histórico hizo referencia Gabriel García Márquez en su obra cien años de soledad?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 28,
+        "description": "Narcotráfico ",
+        "question": {
+            "id": 8,
+            "description": "¿A qué suceso histórico hizo referencia Gabriel García Márquez en su obra cien años de soledad?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 29,
+        "description": "1903",
+        "question": {
+            "id": 9,
+            "description": "¿Cuándo se separó Panamá de Colombia?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 30,
+        "description": "2003",
+        "question": {
+            "id": 9,
+            "description": "¿Cuándo se separó Panamá de Colombia?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 31,
+        "description": "1996",
+        "question": {
+            "id": 9,
+            "description": "¿Cuándo se separó Panamá de Colombia?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 32,
+        "description": "1803",
+        "question": {
+            "id": 9,
+            "description": "¿Cuándo se separó Panamá de Colombia?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 33,
+        "description": "La muerte de Jorge Eliecer Gaitán",
+        "question": {
+            "id": 10,
+            "description": "¿Cuál fue el hecho que desencadeno el episodio conocido como el bogotazo? ",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 34,
+        "description": "La muerte de Camilo Torres",
+        "question": {
+            "id": 10,
+            "description": "¿Cuál fue el hecho que desencadeno el episodio conocido como el bogotazo? ",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 35,
+        "description": "La inauguración del teleférico",
+        "question": {
+            "id": 10,
+            "description": "¿Cuál fue el hecho que desencadeno el episodio conocido como el bogotazo? ",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 36,
+        "description": "Un florero",
+        "question": {
+            "id": 10,
+            "description": "¿Cuál fue el hecho que desencadeno el episodio conocido como el bogotazo? ",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 37,
+        "description": "En los 80",
+        "question": {
+            "id": 12,
+            "description": "¿En que época surgen los grupos paramilitares?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 38,
+        "description": "En los 60",
+        "question": {
+            "id": 12,
+            "description": "¿En que época surgen los grupos paramilitares?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 39,
+        "description": "En los 90",
+        "question": {
+            "id": 12,
+            "description": "¿En que época surgen los grupos paramilitares?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 40,
+        "description": "En 2006",
+        "question": {
+            "id": 12,
+            "description": "¿En que época surgen los grupos paramilitares?",
+            "category": {
+                "id": 1,
+                "description": "Historia"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 41,
+        "description": "partes de la oración",
+        "question": {
+            "id": 13,
+            "description": "sustantivo y verbo son:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 42,
+        "description": "preposiciones",
+        "question": {
+            "id": 13,
+            "description": "sustantivo y verbo son:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 43,
+        "description": "operaciones",
+        "question": {
+            "id": 13,
+            "description": "sustantivo y verbo son:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 44,
+        "description": "expresiones",
+        "question": {
+            "id": 13,
+            "description": "sustantivo y verbo son:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 45,
+        "description": "Una unidad de comunicación que posee sentido completo, independencia sintáctica y termina en pausa o punto",
+        "question": {
+            "id": 14,
+            "description": "¿Qué es la oración?",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 46,
+        "description": "formación de palabras",
+        "question": {
+            "id": 14,
+            "description": "¿Qué es la oración?",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 47,
+        "description": "conjunto de ideas",
+        "question": {
+            "id": 14,
+            "description": "¿Qué es la oración?",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 48,
+        "description": "sentido de la expresión",
+        "question": {
+            "id": 14,
+            "description": "¿Qué es la oración?",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 49,
+        "description": "Ordenada",
+        "question": {
+            "id": 15,
+            "description": "Para que una oración tenga sentido debe estar:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 50,
+        "description": "Clara",
+        "question": {
+            "id": 15,
+            "description": "Para que una oración tenga sentido debe estar:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 51,
+        "description": "Nítida",
+        "question": {
+            "id": 15,
+            "description": "Para que una oración tenga sentido debe estar:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 52,
+        "description": "Desordenada",
+        "question": {
+            "id": 15,
+            "description": "Para que una oración tenga sentido debe estar:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 53,
+        "description": "Verbo",
+        "question": {
+            "id": 16,
+            "description": "En la oración se realiza siempre una acción, es decir que siempre lleva un:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 54,
+        "description": "Principio",
+        "question": {
+            "id": 16,
+            "description": "En la oración se realiza siempre una acción, es decir que siempre lleva un:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 55,
+        "description": "Final",
+        "question": {
+            "id": 16,
+            "description": "En la oración se realiza siempre una acción, es decir que siempre lleva un:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 56,
+        "description": "Historia",
+        "question": {
+            "id": 16,
+            "description": "En la oración se realiza siempre una acción, es decir que siempre lleva un:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 57,
+        "description": "La persona, animal o cosa que realiza la acción del verbo o de quien se dice algo",
+        "question": {
+            "id": 17,
+            "description": "Llamamos sujeto a:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 58,
+        "description": "Expresiones escritas",
+        "question": {
+            "id": 17,
+            "description": "Llamamos sujeto a:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 59,
+        "description": "Las palabras agudas",
+        "question": {
+            "id": 17,
+            "description": "Llamamos sujeto a:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 60,
+        "description": "Un individuo que habla",
+        "question": {
+            "id": 17,
+            "description": "Llamamos sujeto a:",
+            "category": {
+                "id": 2,
+                "description": "Gramática"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 61,
+        "description": "100000 unidades",
+        "question": {
+            "id": 18,
+            "description": "A cuántas unidades equivale 10 decenas de millar",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 62,
+        "description": "10000 unidades",
+        "question": {
+            "id": 18,
+            "description": "A cuántas unidades equivale 10 decenas de millar",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 63,
+        "description": "1000 unidades",
+        "question": {
+            "id": 18,
+            "description": "A cuántas unidades equivale 10 decenas de millar",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 64,
+        "description": "10000000 unidades",
+        "question": {
+            "id": 18,
+            "description": "A cuántas unidades equivale 10 decenas de millar",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 65,
+        "description": "60",
+        "question": {
+            "id": 19,
+            "description": "Aproxima el número 58 a la decena",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 66,
+        "description": "50",
+        "question": {
+            "id": 19,
+            "description": "Aproxima el número 58 a la decena",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 67,
+        "description": "55",
+        "question": {
+            "id": 19,
+            "description": "Aproxima el número 58 a la decena",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 68,
+        "description": "65",
+        "question": {
+            "id": 19,
+            "description": "Aproxima el número 58 a la decena",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 69,
+        "description": "35",
+        "question": {
+            "id": 20,
+            "description": "Escribe el número ordinal trigésimo quinto en cifras",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 70,
+        "description": "135",
+        "question": {
+            "id": 20,
+            "description": "Escribe el número ordinal trigésimo quinto en cifras",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 71,
+        "description": "25",
+        "question": {
+            "id": 20,
+            "description": "Escribe el número ordinal trigésimo quinto en cifras",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 72,
+        "description": "60",
+        "question": {
+            "id": 20,
+            "description": "Escribe el número ordinal trigésimo quinto en cifras",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 73,
+        "description": "9036",
+        "question": {
+            "id": 21,
+            "description": "Cuál es la representación gráfica del número nueve mil treinta y seis",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 74,
+        "description": "90036",
+        "question": {
+            "id": 21,
+            "description": "Cuál es la representación gráfica del número nueve mil treinta y seis",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 75,
+        "description": "9360",
+        "question": {
+            "id": 21,
+            "description": "Cuál es la representación gráfica del número nueve mil treinta y seis",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 76,
+        "description": "936",
+        "question": {
+            "id": 21,
+            "description": "Cuál es la representación gráfica del número nueve mil treinta y seis",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 77,
+        "description": "Cinco",
+        "question": {
+            "id": 22,
+            "description": "Qué cantidad expresa el número romano V",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 78,
+        "description": "Uno",
+        "question": {
+            "id": 22,
+            "description": "Qué cantidad expresa el número romano V",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 79,
+        "description": "Diez",
+        "question": {
+            "id": 22,
+            "description": "Qué cantidad expresa el número romano V",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 80,
+        "description": "Veinte",
+        "question": {
+            "id": 22,
+            "description": "Qué cantidad expresa el número romano V",
+            "category": {
+                "id": 5,
+                "description": "Matemáticas"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 81,
+        "description": "to",
+        "question": {
+            "id": 23,
+            "description": "I come ________ England",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 82,
+        "description": "from",
+        "question": {
+            "id": 23,
+            "description": "I come ________ England",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 83,
+        "description": "at",
+        "question": {
+            "id": 23,
+            "description": "I come ________ England",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 84,
+        "description": "in",
+        "question": {
+            "id": 23,
+            "description": "I come ________ England",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 85,
+        "description": "many",
+        "question": {
+            "id": 27,
+            "description": "There aren\\'t ________ people here",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 86,
+        "description": "a lot",
+        "question": {
+            "id": 27,
+            "description": "There aren\\'t ________ people here",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 87,
+        "description": "much",
+        "question": {
+            "id": 27,
+            "description": "There aren\\'t ________ people here",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 88,
+        "description": "some",
+        "question": {
+            "id": 27,
+            "description": "There aren\\'t ________ people here",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 89,
+        "description": "isn\\'t going to",
+        "question": {
+            "id": 28,
+            "description": "Tim ________ work tomorrow",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 90,
+        "description": "isn\\'t going",
+        "question": {
+            "id": 28,
+            "description": "Tim ________ work tomorrow",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 91,
+        "description": "isn\\'t",
+        "question": {
+            "id": 28,
+            "description": "Tim ________ work tomorrow",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 92,
+        "description": "isn\\'t to",
+        "question": {
+            "id": 28,
+            "description": "Tim ________ work tomorrow",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 93,
+        "description": "Did you walked",
+        "question": {
+            "id": 29,
+            "description": "________ to school yesterday?",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 94,
+        "description": "Do you walk",
+        "question": {
+            "id": 29,
+            "description": "________ to school yesterday?",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 95,
+        "description": "Did you walk",
+        "question": {
+            "id": 29,
+            "description": "________ to school yesterday?",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 96,
+        "description": "Have you walked",
+        "question": {
+            "id": 29,
+            "description": "________ to school yesterday?",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 97,
+        "description": "to buy",
+        "question": {
+            "id": 30,
+            "description": "I went to the shop ________ some chocolate",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": true
+    },
+    {
+        "id": 98,
+        "description": "for buy",
+        "question": {
+            "id": 30,
+            "description": "I went to the shop ________ some chocolate",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 99,
+        "description": "buy",
+        "question": {
+            "id": 30,
+            "description": "I went to the shop ________ some chocolate",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    },
+    {
+        "id": 100,
+        "description": "for buying",
+        "question": {
+            "id": 30,
+            "description": "I went to the shop ________ some chocolate",
+            "category": {
+                "id": 4,
+                "description": "Ingles"
+            }
+        },
+        "valid": false
+    }
+]

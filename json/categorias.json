@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "description": "Historia",
+        "reward": 500
+    },
+    {
+        "id": 2,
+        "description": "Gramática",
+        "reward": 550
+    },
+    {
+        "id": 3,
+        "description": "Ciencias Naturales",
+        "reward": 620
+    },
+    {
+        "id": 4,
+        "description": "Ingles",
+        "reward": 750
+    },
+    {
+        "id": 5,
+        "description": "Matemáticas",
+        "reward": 1000
+    }
+]

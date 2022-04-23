@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "description": "¿Qué significan las siglas ADN?",
+        "category": {
+            "id": 3,
+            "description": "Ciencias Naturales",
+            "reward": 620
+        }
+    },
+    {
+        "id": 2,
+        "description": "¿Qué es la fotosíntesis?",
+        "category": {
+            "id": 3,
+            "description": "Ciencias Naturales",
+            "reward": 620
+        }
+    },
+    {
+        "id": 3,
+        "description": "¿Cómo se oxigena el cuerpo humano durante la respiración?",
+        "category": {
+            "id": 3,
+            "description": "Ciencias Naturales",
+            "reward": 620
+        }
+    },
+    {
+        "id": 5,
+        "description": "¿Qué utilizan los peces para respirar?",
+        "category": {
+            "id": 3,
+            "description": "Ciencias Naturales",
+            "reward": 620
+        }
+    },
+    {
+        "id": 6,
+        "description": "¿Qué animales no necesitan aparearse para reproducirse?",
+        "category": {
+            "id": 3,
+            "description": "Ciencias Naturales",
+            "reward": 620
+        }
+    },
+    {
+        "id": 7,
+        "description": "¿Cuáles de estos pueblos indígenas ocuparon el territorio colombiano en el periodo prehispánico?",
+        "category": {
+            "id": 1,
+            "description": "Historia",
+            "reward": 500
+        }
+    },
+    {
+        "id": 8,
+        "description": "¿A qué suceso histórico hizo referencia Gabriel García Márquez en su obra cien años de soledad?",
+        "category": {
+            "id": 1,
+            "description": "Historia",
+            "reward": 500
+        }
+    },
+    {
+        "id": 9,
+        "description": "¿Cuándo se separó Panamá de Colombia?",
+        "category": {
+            "id": 1,
+            "description": "Historia",
+            "reward": 500
+        }
+    },
+    {
+        "id": 10,
+        "description": "¿Cuál fue el hecho que desencadeno el episodio conocido como el bogotazo? ",
+        "category": {
+            "id": 1,
+            "description": "Historia",
+            "reward": 500
+        }
+    },
+    {
+        "id": 12,
+        "description": "¿En que época surgen los grupos paramilitares?",
+        "category": {
+            "id": 1,
+            "description": "Historia",
+            "reward": 500
+        }
+    },
+    {
+        "id": 13,
+        "description": "sustantivo y verbo son:",
+        "category": {
+            "id": 2,
+            "description": "Gramática",
+            "reward": 550
+        }
+    },
+    {
+        "id": 14,
+        "description": "¿Qué es la oración?",
+        "category": {
+            "id": 2,
+            "description": "Gramática",
+            "reward": 550
+        }
+    },
+    {
+        "id": 15,
+        "description": "Para que una oración tenga sentido debe estar:",
+        "category": {
+            "id": 2,
+            "description": "Gramática",
+            "reward": 550
+        }
+    },
+    {
+        "id": 16,
+        "description": "En la oración se realiza siempre una acción, es decir que siempre lleva un:",
+        "category": {
+            "id": 2,
+            "description": "Gramática",
+            "reward": 550
+        }
+    },
+    {
+        "id": 17,
+        "description": "Llamamos sujeto a:",
+        "category": {
+            "id": 2,
+            "description": "Gramática",
+            "reward": 550
+        }
+    },
+    {
+        "id": 18,
+        "description": "A cuántas unidades equivale 10 decenas de millar",
+        "category": {
+            "id": 5,
+            "description": "Matemáticas",
+            "reward": 1000
+        }
+    },
+    {
+        "id": 19,
+        "description": "Aproxima el número 58 a la decena",
+        "category": {
+            "id": 5,
+            "description": "Matemáticas",
+            "reward": 1000
+        }
+    },
+    {
+        "id": 20,
+        "description": "Escribe el número ordinal trigésimo quinto en cifras",
+        "category": {
+            "id": 5,
+            "description": "Matemáticas",
+            "reward": 1000
+        }
+    },
+    {
+        "id": 21,
+        "description": "Cuál es la representación gráfica del número nueve mil treinta y seis",
+        "category": {
+            "id": 5,
+            "description": "Matemáticas",
+            "reward": 1000
+        }
+    },
+    {
+        "id": 22,
+        "description": "Qué cantidad expresa el número romano V",
+        "category": {
+            "id": 5,
+            "description": "Matemáticas",
+            "reward": 1000
+        }
+    },
+    {
+        "id": 23,
+        "description": "I come ________ England",
+        "category": {
+            "id": 4,
+            "description": "Ingles",
+            "reward": 750
+        }
+    },
+    {
+        "id": 27,
+        "description": "There aren\\'t ________ people here",
+        "category": {
+            "id": 4,
+            "description": "Ingles",
+            "reward": 750
+        }
+    },
+    {
+        "id": 28,
+        "description": "Tim ________ work tomorrow",
+        "category": {
+            "id": 4,
+            "description": "Ingles",
+            "reward": 750
+        }
+    },
+    {
+        "id": 29,
+        "description": "________ to school yesterday?",
+        "category": {
+            "id": 4,
+            "description": "Ingles",
+            "reward": 750
+        }
+    },
+    {
+        "id": 30,
+        "description": "I went to the shop ________ some chocolate",
+        "category": {
+            "id": 4,
+            "description": "Ingles",
+            "reward": 750
+        }
+    }
+]
