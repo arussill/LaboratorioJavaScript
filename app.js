@@ -1,6 +1,4 @@
-import { Respuesta } from './js/respuesta.js'
+import { Respuesta } from'./lib/entidades/respuesta.js'
 
 let respuesta = new Respuesta()
-
-
-respuesta.mostrarRespuestas()
+respuesta.mostrarRespuestas(3)
