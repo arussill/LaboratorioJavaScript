@@ -1,1 +1,1 @@
-# LaboratorioJava
+# LaboratorioJavaScript
