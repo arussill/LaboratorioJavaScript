@@ -1,15 +1,11 @@
-<div class="container mt-4" *ngIf="game$ | async as game">
+<div class="container mt-4">
     <div class="card text-center">
-        <div class="card-header">
-            Juego {{ game.status.description | lowercase }}
+        <div id="estado" class="card-header">
         </div>
         <div class="card-body">
-            <h5 class="card-title">Jugador: {{ game.player.name }}</h5>
-            <p class="card-text">Acumulado: {{ game.accumulated }}</p>
-            <p class="card-text">Ronda alcanzada: {{ game.round.description }}</p>
-            <a [routerLink]="['../../inicio']" class="btn btn-primary see_trips">
-                Inicio
-            </a>
+            <h5 id="jugador" class="card-title"></h5>
+            <p id="puntaje" class="card-text"></p>
+            <p id="ronda_actual" class="card-text"></p>
         </div>
     </div>
 </div>
