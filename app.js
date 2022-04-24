@@ -1,5 +1,6 @@
-import { Respuesta } from'./lib/entidades/respuesta.js'
+import { Juego } from './lib/entidades/juego.js'
 
-var respuesta = new Respuesta()
-respuesta.mostrarRespuestas(3)
-respuesta.validarRespuesta()
+let juego = new Juego()
+
+document.querySelector('#inicio').addEventListener('click', () => juego.iniciarJuego())
+document.querySelector('#historial').addEventListener('click', () => juego.leerJuegos())
