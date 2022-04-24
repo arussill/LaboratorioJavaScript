@@ -1,4 +1,4 @@
 # LaboratorioJavaScript
-Sergio Garcia
-Aura Russill
-Santiago Viana
+-Sergio Garcia
+-Aura Russill
+-Santiago Viana
